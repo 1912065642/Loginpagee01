@@ -1,0 +1,96 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #EEF2F3;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+form{
+	width: 550px;
+	height: 550px;
+	background-color: white;
+	margin:125px auto;
+}
+.heading{
+	padding-top: 40px;
+    padding-bottom: 5px;
+    padding-left: 190px;
+
+}
+.underline{
+	width: 150px;
+    height: 4px;
+    background-color: #1AD9B5;
+    margin: 0px 185px;
+}
+p{
+	display: inline-block;
+	color: #818685 ;
+	
+}
+
+.p1{
+   padding: 45px 30px 40px 90px;
+}
+.p2{
+   padding: 1px 30px 40px 62px;
+}
+.p3{
+	padding: 0px 30px 40px 95px;
+
+}
+.p4{
+	padding: 0px 30px 40px 37px;
+}
+.i1{
+    height: 40px;
+    width: 315px;
+    border-radius: 5px;
+    border:1px solid #D7E0DE;
+}
+.i2{
+	height: 40px;
+    width: 315px;
+    border-radius: 5px;
+    border:1px solid #D7E0DE;
+
+}
+.i3{
+   height: 40px;
+    width: 315px;
+    border-radius: 5px;
+    border:1px solid #D7E0DE;
+}
+.i4{
+	height: 40px;
+    width: 315px;
+    border-radius: 5px;
+    border:1px solid #D7E0DE;
+	
+}
+.check{
+	padding: 0px 30px 30px 186px;
+	color: #818685 ;
+}
+.final{
+	
+    margin-left: 184px;
+
+}
+.sign{
+	padding: 12px 48px;
+    border: 1px solid #1AD9B5;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    background-color: #1AD9B5;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-left: 185px;
+    
+
+}
+span{
+	color: #1AD9B5;
+}
